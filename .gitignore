@@ -10,19 +10,11 @@ __pycache__/
 .Python
 build/
 develop-eggs/
-<<<<<<< HEAD
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-=======
 dist/  
 downloads/ 
 eggs/
 .eggs/
 lib/ 
->>>>>>> origin/master
 lib64/
 parts/
 sdist/
